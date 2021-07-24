@@ -1,0 +1,12 @@
+node_modules
+dst
+docs
+.*
+
+!.*rc
+!.*ignore
+!.gitattributes
+!.editorconfig
+!.vscode
+!.husky
+!.github
